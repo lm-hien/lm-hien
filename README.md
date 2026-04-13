@@ -1,11 +1,4 @@
 ## Hi there, I'm lm-hien 👋
-
-## My Repositories
-- [historydataR](https://github.com/ropensci/historydata) - The R package historydata (maintainer)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lm-hien&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-hien&layout=compact&theme=radical)
 <!--
 **lm-hien/lm-hien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
