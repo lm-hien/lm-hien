@@ -1,14 +1,6 @@
 ## Hi there, I'm lm-hien 👋
 
-## About Me
-- 🎯 **Goal**: Building scalable, user‑centric data applications and analytics solutions
-- 🌱 **Currently Learning**: UX thinking for data products, advanced data visualization (R / ggplot2), and machine learning workflows
-- 📍 **Location**: Fort Wayne, Indiana, USA
-
 ## My Repositories
-- [Seismis Events](https://github.com/lm-hien/vesuvius-seismic-events) - Monitoring Siesmis Events at Mount Vesuvius
-- [LOL Draft Tool](https://github.com/lm-hien/lol-draft-tool) - Statistical Drafting Tool
-- [Ai Cybersecurity Webapp](https://github.com/davidlislc/AiCyberGroup) - Full-stack Web Application Using AI for Cybersecurity
 - [historydataR](https://github.com/ropensci/historydata) - The R package historydata (maintainer)
 
 ## 📊 GitHub Stats
